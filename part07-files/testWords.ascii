@@ -1,0 +1,4 @@
+Parallelism	Performance	Code
+Master	Communication	Distributed
+Processors	Data	Multiple
+Worker 	Message 	Task 	Memory
