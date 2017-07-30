@@ -1,18 +1,24 @@
-# cse502
+# MYY502
 
 ### About
 
-This repository contains the source code of cse502 - Systems Programming course.
+This repository contains the source code from the lecture slides of 
+MYY502--Systems Programming, a 3rd-year undergraduate course in the 
+Department of Computer Science & Engineering, University of Ioannina, Greece.
 
 ### Semester
 
-Winter semester of the 2015-2016 academic year.
+Fall semester of the 2015-2016 academic year.
 
-### Webpages
+### Webpages (in Greek)
 
  * [Slides](http://www.cse.uoi.gr/~dimako/teaching/fall15.html)
- * [Labs](http://www.cse.uoi.gr/~myy502/2015/)
+ * [Labs](http://cse.uoi.gr/~myy502/2015/)
 
-### Professor
+### Instructor
 
 [Vassilios V. Dimakopoulos](http://cse.uoi.gr/~dimako)
+
+[Department of Computer Science & Engineering](http://www.cse.uoi.gr)
+
+[University of Ioannina](http://www.uoi.gr)
