@@ -13,7 +13,7 @@ Fall semester of the 2017-2018 academic year.
 ### Webpages (in Greek)
 
  * [Slides](http://www.cse.uoi.gr/~dimako/teaching/fall17.html)
- * [Labs](http://cse.uoi.gr/~myy502)
+ * [Labs](http://cse.uoi.gr/~myy502/2017/)
 
 ### Instructor
 
