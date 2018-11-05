@@ -9,7 +9,7 @@
 
 int main(void) {
 	int n, i, j;
-	float mo = 0, *measurements[M];   /* Pinakas me M deiktres,
+	float mo, *measurements[M];   /* Pinakas me M deiktres,
 	                               	     idio me float *(measurements[M]) */
 	
 	printf("Enter the number of measurements per experiment: ");
@@ -33,7 +33,7 @@ int main(void) {
 	
 	printf("\nResults: \n");
 	for (i = 0; i < M; i++) {
-		for (j = 0; j < n; j++)
+		for (j = 0, mo = 0.0; j < n; j++)
 			mo += measurements[i][j];
 		mo /= n;
 		printf("Experiment #%d, mo = %.2f\n", i, mo);

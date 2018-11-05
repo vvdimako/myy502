@@ -7,7 +7,7 @@
 
 int main(void) {
 	int n, m, i, j;
-	float mo = 0, **measurements;
+	float mo, **measurements;
 	
 	/* Learn the dimensions */
 	printf("Enter the number of experiments: ");
@@ -36,7 +36,7 @@ int main(void) {
 	
 	printf("\nResults: \n");
 	for (i = 0; i < m; i++) {
-		for (j = 0; j < n; j++)
+		for (j = 0, mo = 0.0; j < n; j++)
 			mo += measurements[i][j];
 		mo /= n;
 		printf("Experiment #%d, mo = %.2f\n", i, mo);
