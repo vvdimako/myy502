@@ -1,0 +1,10 @@
+OMPi is a lightweight, open source OpenMP compiler and runtime system for C.
+It sports an architecture that allows experimentation with a multitude of 
+threading libraries while offering highly competitive performance.
+
+The OMPi compiler takes C source code with OpenMP #pragmas and produces 
+transformed multithreaded C code, ready to be compiled by the native compiler 
+of a system. An optimized library is linked in the produced executable, 
+providing efficient runtime support. It has been tested on a variety of Linux, 
+Solaris, Irix and Windows (Cygwin) machines and can be easily ported to any 
+machine supporting POSIX Threads.
