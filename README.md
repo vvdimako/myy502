@@ -8,12 +8,12 @@ Department of Computer Science & Engineering, University of Ioannina, Greece.
 
 ### Semester
 
-Fall semester of the 2017-2018 academic year.
+Fall semester of the 2019-2020 academic year.
 
 ### Webpages (in Greek)
 
- * [Slides](http://www.cse.uoi.gr/~dimako/teaching/fall17.html)
- * [Labs](http://cse.uoi.gr/~myy502/2017/)
+ * [Slides](http://www.cse.uoi.gr/~dimako/teaching/fall19.html) [TBA]
+ * [Labs](http://cse.uoi.gr/~myy502/2019/)
 
 ### Instructor
 
