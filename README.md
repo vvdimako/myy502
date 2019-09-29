@@ -12,7 +12,7 @@ Fall semester of the 2019-2020 academic year.
 
 ### Webpages (in Greek)
 
- * [Slides](http://www.cse.uoi.gr/~dimako/teaching/fall19.html) [TBA]
+ * [Slides](http://www.cse.uoi.gr/~dimako/teaching/fall19.html)
  * [Labs](http://cse.uoi.gr/~myy502/2019/)
 
 ### Instructor
