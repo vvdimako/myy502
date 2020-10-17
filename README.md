@@ -12,13 +12,13 @@ Fall semester of the 2020-2021 academic year.
 
 ### Webpages (in Greek)
 
- * [Slides](http://www.cse.uoi.gr/~dimako/teaching/fall20.html)
- * [Labs](http://cse.uoi.gr/~myy502/2020/)
+ * [Slides](https://www.cse.uoi.gr/~dimako/teaching/fall20.html)
+ * [Labs](https://www.cse.uoi.gr/~myy502/2020/)
 
 ### Instructor
 
-[Vassilios V. Dimakopoulos](http://cse.uoi.gr/~dimako)
+[Vassilios V. Dimakopoulos](https://www.cse.uoi.gr/~dimako)
 
-[Department of Computer Science & Engineering](http://www.cse.uoi.gr)
+[Department of Computer Science & Engineering](https://www.cse.uoi.gr)
 
-[University of Ioannina](http://www.uoi.gr)
+[University of Ioannina](https://www.uoi.gr)
