@@ -1,1 +1,15 @@
-a.out
+# Executables
+*.out
+
+# Object Files
+*.o
+
+# Precompiled Header Files
+*.gch
+
+# Vim Swap Files
+*.sw[pon]
+
+# Backup Files
+*~
+
